@@ -1,0 +1,130 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.stay-focus {
+  display: flex;
+}
+
+.title {
+  font-size: 50px;
+  font-family: "Libre Baskerville", serif;
+  border-left: 5px solid orangered;
+}
+
+.focused-misson {
+  width: 80%;
+  padding: 5%;
+}
+
+.focused-misson img {
+  width: 600px;
+}
+
+span {
+  color: purple;
+}
+
+.button {
+  text-decoration: none;
+  padding: 10px 20px;
+  background-color: orangered;
+  color: aliceblue;
+  border-radius: 5px;
+  display: inline-block;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.mission-vission {
+  text-align: center;
+}
+
+.mission {
+  width: 500px;
+  background-color: paleturquoise;
+  padding: 1%;
+  border-radius: 10px;
+}
+
+.mission-image img {
+  width: 50%;
+  padding-right: 100%;
+}
+
+.vission {
+  width: 500px;
+  background-color: papayawhip;
+  padding: 1%;
+  border-radius: 10px;
+}
+
+.vission-image img {
+  width: 50%;
+  padding-right: 100%;
+}
+
+.goals {
+  width: 500px;
+  background-color: peru;
+  padding: 1%;
+  border-radius: 10px;
+}
+
+.goals-image img {
+  width: 50%;
+  padding-right: 100%;
+}
+
+.all-mission {
+  display: flex;
+  justify-content: space-evenly;
+  padding: 50px;
+}
+
+.para {
+  text-align: justify;
+}
+
+.name {
+  text-align: left;
+}
+
+.mission-title {
+  font-size: 5rem;
+  font-family: "Libre Baskerville", serif;
+}
+
+.develop-part img {
+  width: 500px;
+}
+
+.develop-part {
+  width: 30%;
+  padding-left: 15%;
+  padding-top: 5%;
+}
+
+.dev-title {
+  font-size: 80px;
+}
+
+/* .first-bg {
+  background-image: url(images/shapes/shape-1.png);
+  background-repeat: no-repeat;
+} */
+
+.comunity {
+  width: 80%;
+  padding-left: 5%;
+  padding-top: 5%;
+}
+
+.comunity img {
+  width: 500px;
+}
+
+.comu-title {
+  font-size: 5rem;
+}
