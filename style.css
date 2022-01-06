@@ -25,7 +25,7 @@ body {
   width: 100%;
 }
 
-span {
+.first-title {
   color: orangered;
 }
 
@@ -203,4 +203,13 @@ footer {
 
 .title {
   color: orangered;
+}
+
+.name {
+  color: purple;
+  font-size: 50px;
+}
+
+.contact-title {
+  font-size: 2.5rem;
 }
